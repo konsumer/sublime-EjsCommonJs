@@ -18,7 +18,7 @@ import remarkStringify from 'remark-stringify'
 import remarkMdx from 'remark-mdx'
 ```
 
-and vice-versa
+and back
 
 ## installation
 
