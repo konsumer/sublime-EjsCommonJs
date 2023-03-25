@@ -1,0 +1,10 @@
+[
+	{
+		"caption": "Convert CJS (require) to ES6 (import)",
+		"command": "cjs2es6"
+	},
+	{
+		"caption": "Convert ES6 (import) to CJS (require)",
+		"command": "es62cjs"
+	}
+]
