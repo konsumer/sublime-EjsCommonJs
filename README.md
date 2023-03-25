@@ -10,4 +10,4 @@ Restart sublime, and you should see new items in menu:
 
 ![screenshot](./screen.png)
 
-Highlight the imports/reasuires and run the command to switch them.
+Highlight the `import`s/`require`s and run the command to switch them.
