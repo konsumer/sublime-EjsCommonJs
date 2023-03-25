@@ -1,4 +1,4 @@
-Sublime 4 plugin to convert ES^ `import` to `require` and vice-versa.
+Sublime 4 plugin to convert ES6 `import` to `require` and vice-versa.
 
 convert this:
 
